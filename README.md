@@ -58,4 +58,4 @@ This Python script processes a text file, builds a trigram language model, and g
 3. **Run the Script**:  
    Execute the script in your Python environment:  
    ```bash
-   python trigram_text_generator.py
+   python main.py
